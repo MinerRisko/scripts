@@ -1,0 +1,1 @@
+<recipetype:immersiveengineering:crusher>.addRecipe("pileofneutrons2", <item:minecraft:netherite_ingot>, 500, <item:minecraft:netherite_scrap> * 4, <item:avaritia:pileof_neutrons> % 10);
